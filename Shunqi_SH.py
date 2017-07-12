@@ -6,6 +6,9 @@ import time
 import csv
 from bs4 import BeautifulSoup
 
+'''This script is to crawl business contact information
+of all companies in business service industry (商务服务业)
+in the www.11467.com, an open source B2B platform'''
 
 
 def getComUrlList(url):
